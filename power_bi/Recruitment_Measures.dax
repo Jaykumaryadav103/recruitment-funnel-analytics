@@ -1,0 +1,32 @@
+Stage Order =
+SWITCH(Candidates[Current Stage], "Applied", 1, "Screened", 2, "Recruiter Interview", 3, "Hiring Manager Interview", 4, "Final Interview", 5, "Offer", 6, "Joined", 7)
+
+Applications = DISTINCTCOUNT(Candidates[Candidate ID])
+
+Joiners = CALCULATE([Applications], Candidates[Outcome] = "Joined")
+
+Application to Join Rate = DIVIDE([Joiners], [Applications])
+
+Median Days to Join =
+MEDIANX(
+    FILTER(Candidates, Candidates[Outcome] = "Joined" && NOT ISBLANK(Candidates[JoinedDate])),
+    DATEDIFF(Candidates[Application Date], Candidates[JoinedDate], DAY)
+)
+
+Candidates Reaching Stage =
+VAR CurrentOrder = MAX(Candidates[Stage Order])
+RETURN
+CALCULATE(
+    [Applications],
+    FILTER(ALL(Candidates[Current Stage], Candidates[Stage Order]), Candidates[Stage Order] >= CurrentOrder)
+)
+
+Previous Stage Candidates =
+VAR CurrentOrder = MAX(Candidates[Stage Order])
+RETURN
+CALCULATE(
+    [Applications],
+    FILTER(ALL(Candidates[Current Stage], Candidates[Stage Order]), Candidates[Stage Order] >= CurrentOrder - 1)
+)
+
+Stage Conversion = DIVIDE([Candidates Reaching Stage], [Previous Stage Candidates])

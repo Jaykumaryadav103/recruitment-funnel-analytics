@@ -1,0 +1,4 @@
+﻿Issue,Count,Treatment
+Duplicate candidate record,6,Kept first record by Candidate ID; later duplicate removed.
+Milestone date before application,2,Removed invalid Recruiter Interview date; retained candidate row.
+Missing recruitment source,5,Mapped blank to Unknown; retained record.

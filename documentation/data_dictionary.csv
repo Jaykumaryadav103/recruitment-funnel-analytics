@@ -1,0 +1,19 @@
+﻿Field,Definition,Type,Example / allowed values,Handling note
+Candidate ID,Synthetic unique row key,Text,C0001,No real personal identifier
+Application Date,Date candidate applied,Date,2026-02-14,ISO 8601
+Role,Role applied to,Category,ML Engineer,Synthetic role
+Department,Mapped hiring department,Category,AI,Synthetic grouping
+Experience Level,Broad experience band,Category,Early Career,No age or protected class
+Source,Recruitment source,Category,"LinkedIn, Unknown",Missing values mapped to Unknown
+Recruiter,Synthetic recruiter label,Category,Recruiter A,Not a real person
+Current Stage,Furthest completed stage,Category,"Interview, Joined",Stage ordering in KPI definitions
+Outcome,Current disposition,Category,"Joined, In Progress",Offer declined separate
+Applied Date,Application milestone date,Date,2026-02-14,Same as Application Date
+ScreenedDate,Screen milestone date,Date or blank,2026-02-18,Blank means stage not reached
+RecruiterInterviewDate,Recruiter interview date,Date or blank,2026-02-24,Blank means stage not reached
+HiringManagerInterviewDate,Hiring manager interview date,Date or blank,2026-03-01,Blank means stage not reached
+FinalInterviewDate,Final interview date,Date or blank,2026-03-08,Blank means stage not reached
+OfferDate,Offer date,Date or blank,2026-03-11,Blank means stage not reached
+JoinedDate,Start date,Date or blank,2026-03-20,Blank means not joined
+Days to Current Stage,Days from application to latest stage,Integer,18,"For joined, equals time to join"
+Withdrawal Reason,Disposition reason,Category or blank,Accepted another offer,"Synthetic, incomplete by design"

@@ -1,0 +1,361 @@
+﻿Candidate ID,Application Date,Role,Department,Experience Level,Source,Recruiter,Current Stage,Outcome,Applied Date,ScreenedDate,RecruiterInterviewDate,HiringManagerInterviewDate,FinalInterviewDate,OfferDate,JoinedDate,Days to Current Stage,Withdrawal Reason
+C0001,2026-01-06,People Operations Analyst,People & Culture,Entry,Campus,Recruiter C,Screened,In Progress,2026-01-06,2026-01-08,,,,,,2,
+C0002,2026-02-05,People Operations Analyst,People & Culture,Early Career,Recruiter Agency,Recruiter B,Recruiter Interview,Not Selected,2026-02-05,2026-02-10,,,,,,11,Compensation
+C0003,2026-04-15,ML Engineer,AI,Experienced,LinkedIn,Recruiter A,Screened,In Progress,2026-04-15,2026-04-19,,,,,,4,
+C0004,2026-03-12,AI Research Associate,AI,Early Career,Employee Referral,Recruiter C,Recruiter Interview,In Progress,2026-03-12,2026-03-16,,,,,,7,
+C0005,2026-06-22,Solutions Engineer,Business,Experienced,LinkedIn,Recruiter C,Joined,Joined,2026-06-22,2026-06-26,2026-07-01,2026-07-06,2026-07-12,2026-07-16,2026-07-27,35,
+C0006,2026-06-14,Quantum Software Engineer,Quantum,Entry,LinkedIn,Recruiter B,Recruiter Interview,Not Selected,2026-06-14,2026-06-19,2026-06-25,,,,,11,Compensation
+C0007,2026-05-03,People Operations Analyst,People & Culture,Experienced,Campus,Recruiter B,Screened,Not Selected,2026-05-03,2026-05-05,,,,,,2,Availability
+C0008,2026-01-11,AI Research Associate,AI,Entry,LinkedIn,Recruiter B,Screened,Not Selected,2026-01-11,2026-01-14,,,,,,3,Compensation
+C0009,2026-03-13,Solutions Engineer,Business,Experienced,Employee Referral,Recruiter A,Recruiter Interview,Not Selected,2026-03-13,2026-03-14,2026-03-19,,,,,6,Compensation
+C0010,2026-01-11,ML Engineer,AI,Entry,Unknown,Recruiter C,Joined,Joined,2026-01-11,2026-01-16,2026-01-24,2026-01-28,2026-02-02,2026-02-04,2026-02-14,34,
+C0011,2026-03-26,AI Research Associate,AI,Experienced,Careers Page,Recruiter A,Final Interview,In Progress,2026-03-26,2026-03-29,2026-04-01,2026-04-09,2026-04-17,,,22,
+C0012,2026-06-29,People Operations Analyst,People & Culture,Early Career,LinkedIn,Recruiter C,Screened,In Progress,2026-06-29,2026-06-30,,,,,,1,
+C0013,2026-06-22,Quantum Software Engineer,Quantum,Early Career,Employee Referral,Recruiter B,Recruiter Interview,Not Selected,2026-06-22,2026-06-23,2026-06-29,,,,,7,Role fit
+C0014,2026-06-15,ML Engineer,AI,Experienced,Employee Referral,Recruiter C,Joined,Joined,2026-06-15,2026-06-20,2026-06-28,2026-07-05,2026-07-13,2026-07-20,2026-07-23,38,
+C0015,2026-05-14,Quantum Software Engineer,Quantum,Experienced,Employee Referral,Recruiter C,Hiring Manager Interview,In Progress,2026-05-14,2026-05-17,2026-05-24,2026-05-29,,,,15,
+C0016,2026-04-17,Product Manager,Business,Entry,Careers Page,Recruiter C,Recruiter Interview,Not Selected,2026-04-17,2026-04-20,2026-04-25,,,,,8,Availability
+C0017,2026-02-14,Quantum Software Engineer,Quantum,Early Career,Campus,Recruiter B,Applied,Not Selected,2026-02-14,,,,,,,0,Compensation
+C0018,2026-01-14,Product Manager,Business,Entry,Employee Referral,Recruiter B,Screened,In Progress,2026-01-14,2026-01-15,,,,,,1,
+C0019,2026-05-19,ML Engineer,AI,Entry,Careers Page,Recruiter C,Hiring Manager Interview,In Progress,2026-05-19,2026-05-24,2026-05-30,2026-06-09,,,,21,
+C0020,2026-03-01,AI Research Associate,AI,Entry,LinkedIn,Recruiter B,Recruiter Interview,In Progress,2026-03-01,2026-03-02,2026-03-07,,,,,6,
+C0021,2026-01-04,Solutions Engineer,Business,Experienced,Recruiter Agency,Recruiter C,Screened,Not Selected,2026-01-04,2026-01-09,,,,,,5,Compensation
+C0022,2026-02-10,ML Engineer,AI,Experienced,LinkedIn,Recruiter A,Applied,In Progress,2026-02-10,,,,,,,0,
+C0023,2026-01-28,People Operations Analyst,People & Culture,Entry,Employee Referral,Recruiter A,Final Interview,Not Selected,2026-01-28,2026-01-30,2026-02-06,2026-02-12,2026-02-19,,,22,Accepted another offer
+C0024,2026-03-07,AI Research Associate,AI,Entry,Careers Page,Recruiter B,Recruiter Interview,Not Selected,2026-03-07,2026-03-08,2026-03-11,,,,,4,Assessment outcome
+C0025,2026-02-10,People Operations Analyst,People & Culture,Experienced,LinkedIn,Recruiter C,Joined,Joined,2026-02-10,2026-02-11,2026-02-14,2026-02-22,2026-02-26,2026-03-01,2026-03-11,29,
+C0026,2026-04-23,Quantum Software Engineer,Quantum,Experienced,LinkedIn,Recruiter A,Final Interview,Not Selected,2026-04-23,2026-04-25,2026-04-29,2026-05-09,2026-05-12,,,19,Compensation
+C0027,2026-01-18,Product Manager,Business,Early Career,Employee Referral,Recruiter A,Screened,In Progress,2026-01-18,2026-01-23,,,,,,5,
+C0028,2026-03-27,People Operations Analyst,People & Culture,Entry,Careers Page,Recruiter C,Final Interview,In Progress,2026-03-27,2026-04-01,2026-04-04,2026-04-08,2026-04-12,,,16,
+C0029,2026-02-23,Product Manager,Business,Entry,LinkedIn,Recruiter C,Final Interview,Not Selected,2026-02-23,2026-02-28,2026-03-03,2026-03-09,2026-03-14,,,19,Availability
+C0030,2026-01-19,ML Engineer,AI,Experienced,LinkedIn,Recruiter B,Offer,In Progress,2026-01-19,2026-01-21,2026-01-28,2026-02-03,2026-02-09,2026-02-15,,27,
+C0031,2026-05-07,Product Manager,Business,Early Career,Careers Page,Recruiter B,Applied,Not Selected,2026-05-07,,,,,,,0,Assessment outcome
+C0032,2026-04-05,Product Manager,Business,Early Career,Campus,Recruiter C,Joined,Joined,2026-04-05,2026-04-07,2026-04-13,2026-04-23,2026-04-29,2026-05-03,2026-05-09,34,
+C0033,2026-06-24,Product Manager,Business,Experienced,LinkedIn,Recruiter C,Screened,Not Selected,2026-06-24,2026-06-26,,,,,,2,Assessment outcome
+C0034,2026-05-08,ML Engineer,AI,Experienced,LinkedIn,Recruiter C,Applied,In Progress,2026-05-08,,,,,,,0,
+C0035,2026-04-28,Solutions Engineer,Business,Early Career,Campus,Recruiter B,Hiring Manager Interview,Not Selected,2026-04-28,2026-04-29,2026-05-07,2026-05-17,,,,19,Assessment outcome
+C0036,2026-06-30,Solutions Engineer,Business,Entry,Careers Page,Recruiter B,Screened,Not Selected,2026-06-30,2026-07-05,,,,,,5,Availability
+C0037,2026-06-26,Quantum Software Engineer,Quantum,Experienced,LinkedIn,Recruiter C,Hiring Manager Interview,Not Selected,2026-06-26,2026-07-01,2026-07-04,2026-07-11,,,,15,Compensation
+C0038,2026-06-21,Solutions Engineer,Business,Experienced,LinkedIn,Recruiter C,Offer,Not Selected,2026-06-21,2026-06-22,2026-06-29,2026-07-09,2026-07-15,2026-07-22,,31,Accepted another offer
+C0039,2026-05-29,Quantum Software Engineer,Quantum,Experienced,Recruiter Agency,Recruiter A,Applied,Not Selected,2026-05-29,,,,,,,0,Accepted another offer
+C0040,2026-05-07,People Operations Analyst,People & Culture,Entry,Employee Referral,Recruiter C,Screened,In Progress,2026-05-07,2026-05-08,,,,,,1,
+C0041,2026-06-12,Quantum Software Engineer,Quantum,Early Career,LinkedIn,Recruiter B,Screened,In Progress,2026-06-12,2026-06-17,,,,,,5,
+C0042,2026-06-24,Quantum Software Engineer,Quantum,Entry,LinkedIn,Recruiter A,Final Interview,In Progress,2026-06-24,2026-06-29,2026-07-07,2026-07-15,2026-07-20,,,26,
+C0043,2026-05-27,Product Manager,Business,Entry,Employee Referral,Recruiter C,Recruiter Interview,In Progress,2026-05-27,2026-05-29,2026-06-01,,,,,5,
+C0044,2026-03-28,Solutions Engineer,Business,Entry,Recruiter Agency,Recruiter C,Hiring Manager Interview,Not Selected,2026-03-28,2026-04-02,2026-04-07,2026-04-14,,,,17,Availability
+C0045,2026-01-22,Product Manager,Business,Entry,Careers Page,Recruiter A,Applied,Not Selected,2026-01-22,,,,,,,0,Role fit
+C0046,2026-01-09,People Operations Analyst,People & Culture,Early Career,Careers Page,Recruiter A,Applied,In Progress,2026-01-09,,,,,,,0,
+C0047,2026-01-23,Solutions Engineer,Business,Entry,Careers Page,Recruiter C,Hiring Manager Interview,Not Selected,2026-01-23,2026-01-27,2026-02-01,2026-02-08,,,,16,Accepted another offer
+C0048,2026-04-18,Quantum Software Engineer,Quantum,Early Career,Careers Page,Recruiter A,Joined,Joined,2026-04-18,2026-04-23,2026-05-01,2026-05-11,2026-05-14,2026-05-17,2026-05-23,35,
+C0049,2026-02-08,People Operations Analyst,People & Culture,Experienced,Employee Referral,Recruiter B,Recruiter Interview,In Progress,2026-02-08,2026-02-13,2026-02-20,,,,,12,
+C0050,2026-01-13,ML Engineer,AI,Entry,Careers Page,Recruiter C,Recruiter Interview,Not Selected,2026-01-13,2026-01-18,2026-01-22,,,,,9,Role fit
+C0051,2026-05-16,ML Engineer,AI,Early Career,Careers Page,Recruiter B,Joined,Joined,2026-05-16,2026-05-21,2026-05-26,2026-06-03,2026-06-11,2026-06-13,2026-06-23,38,
+C0052,2026-02-02,People Operations Analyst,People & Culture,Experienced,Employee Referral,Recruiter B,Joined,Joined,2026-02-02,2026-02-03,2026-02-09,2026-02-18,2026-02-26,2026-03-04,2026-03-16,42,
+C0053,2026-01-08,Product Manager,Business,Experienced,Employee Referral,Recruiter B,Joined,Joined,2026-01-08,2026-01-12,2026-01-16,2026-01-20,2026-01-28,2026-02-01,2026-02-11,34,
+C0054,2026-03-14,People Operations Analyst,People & Culture,Early Career,Employee Referral,Recruiter B,Screened,In Progress,2026-03-14,2026-03-16,,,,,,2,
+C0055,2026-06-05,AI Research Associate,AI,Early Career,Careers Page,Recruiter C,Screened,Not Selected,2026-06-05,2026-06-10,,,,,,5,Accepted another offer
+C0056,2026-01-04,People Operations Analyst,People & Culture,Experienced,LinkedIn,Recruiter B,Final Interview,In Progress,2026-01-04,2026-01-07,2026-01-12,2026-01-22,2026-01-28,,,24,
+C0057,2026-04-06,ML Engineer,AI,Entry,Employee Referral,Recruiter B,Applied,Not Selected,2026-04-06,,,,,,,0,Availability
+C0058,2026-01-22,ML Engineer,AI,Experienced,Employee Referral,Recruiter A,Hiring Manager Interview,In Progress,2026-01-22,2026-01-24,2026-01-27,2026-02-01,,,,10,
+C0059,2026-03-16,AI Research Associate,AI,Entry,Recruiter Agency,Recruiter C,Screened,In Progress,2026-03-16,2026-03-18,,,,,,2,
+C0060,2026-05-12,People Operations Analyst,People & Culture,Early Career,LinkedIn,Recruiter C,Screened,Not Selected,2026-05-12,2026-05-14,,,,,,2,Assessment outcome
+C0061,2026-05-02,Solutions Engineer,Business,Entry,Careers Page,Recruiter B,Screened,In Progress,2026-05-02,2026-05-05,,,,,,3,
+C0062,2026-04-06,Quantum Software Engineer,Quantum,Early Career,Employee Referral,Recruiter C,Recruiter Interview,In Progress,2026-04-06,2026-04-07,2026-04-15,,,,,9,
+C0063,2026-04-22,AI Research Associate,AI,Entry,LinkedIn,Recruiter B,Joined,Joined,2026-04-22,2026-04-27,2026-05-04,2026-05-08,2026-05-16,2026-05-20,2026-05-28,36,
+C0064,2026-02-10,Product Manager,Business,Entry,Campus,Recruiter C,Hiring Manager Interview,Not Selected,2026-02-10,2026-02-12,2026-02-17,2026-02-23,,,,13,Role fit
+C0065,2026-06-29,ML Engineer,AI,Early Career,LinkedIn,Recruiter C,Hiring Manager Interview,In Progress,2026-06-29,2026-07-01,2026-07-04,2026-07-08,,,,9,
+C0066,2026-06-16,ML Engineer,AI,Early Career,LinkedIn,Recruiter C,Applied,In Progress,2026-06-16,,,,,,,0,
+C0067,2026-01-05,Solutions Engineer,Business,Early Career,Employee Referral,Recruiter A,Offer,In Progress,2026-01-05,2026-01-06,2026-01-12,2026-01-21,2026-01-27,2026-01-31,,26,
+C0068,2026-05-16,Product Manager,Business,Entry,Careers Page,Recruiter A,Final Interview,In Progress,2026-05-16,2026-05-21,2026-05-26,2026-05-30,2026-06-06,,,21,
+C0069,2026-01-04,Product Manager,Business,Early Career,Recruiter Agency,Recruiter C,Recruiter Interview,In Progress,2026-01-04,2026-01-08,2026-01-15,,,,,11,
+C0070,2026-05-24,Product Manager,Business,Experienced,Careers Page,Recruiter C,Applied,Not Selected,2026-05-24,,,,,,,0,Availability
+C0071,2026-06-04,Product Manager,Business,Early Career,LinkedIn,Recruiter B,Recruiter Interview,In Progress,2026-06-04,2026-06-09,2026-06-14,,,,,10,
+C0072,2026-02-09,Quantum Software Engineer,Quantum,Entry,Employee Referral,Recruiter A,Screened,In Progress,2026-02-09,2026-02-14,,,,,,5,
+C0073,2026-05-10,Solutions Engineer,Business,Experienced,LinkedIn,Recruiter C,Applied,Not Selected,2026-05-10,,,,,,,0,Role fit
+C0074,2026-01-12,ML Engineer,AI,Experienced,Campus,Recruiter B,Offer,Not Selected,2026-01-12,2026-01-17,2026-01-21,2026-01-25,2026-01-31,2026-02-02,,21,Availability
+C0075,2026-06-16,Product Manager,Business,Experienced,Employee Referral,Recruiter B,Hiring Manager Interview,Not Selected,2026-06-16,2026-06-20,2026-06-28,2026-07-06,,,,20,Assessment outcome
+C0076,2026-04-05,AI Research Associate,AI,Early Career,Employee Referral,Recruiter B,Joined,Joined,2026-04-05,2026-04-10,2026-04-16,2026-04-25,2026-04-29,2026-05-04,2026-05-10,35,
+C0077,2026-03-15,Solutions Engineer,Business,Early Career,Recruiter Agency,Recruiter B,Screened,Not Selected,2026-03-15,2026-03-19,,,,,,4,Assessment outcome
+C0078,2026-01-15,Solutions Engineer,Business,Early Career,Unknown,Recruiter B,Screened,Not Selected,2026-01-15,2026-01-20,,,,,,5,Accepted another offer
+C0079,2026-02-05,AI Research Associate,AI,Experienced,Employee Referral,Recruiter B,Recruiter Interview,Not Selected,2026-02-05,2026-02-06,2026-02-14,,,,,9,Accepted another offer
+C0080,2026-03-23,People Operations Analyst,People & Culture,Entry,LinkedIn,Recruiter C,Recruiter Interview,In Progress,2026-03-23,2026-03-27,2026-03-31,,,,,8,
+C0081,2026-03-31,Quantum Software Engineer,Quantum,Early Career,Campus,Recruiter B,Screened,Not Selected,2026-03-31,2026-04-02,,,,,,2,Accepted another offer
+C0082,2026-03-10,People Operations Analyst,People & Culture,Experienced,LinkedIn,Recruiter C,Screened,In Progress,2026-03-10,2026-03-13,,,,,,3,
+C0083,2026-01-22,Quantum Software Engineer,Quantum,Experienced,Campus,Recruiter B,Joined,Joined,2026-01-22,2026-01-23,2026-01-27,2026-02-05,2026-02-10,2026-02-17,2026-02-27,36,
+C0084,2026-03-14,Quantum Software Engineer,Quantum,Experienced,Employee Referral,Recruiter A,Screened,In Progress,2026-03-14,2026-03-16,,,,,,2,
+C0085,2026-03-07,Product Manager,Business,Early Career,Employee Referral,Recruiter C,Screened,In Progress,2026-03-07,2026-03-12,,,,,,5,
+C0086,2026-01-03,People Operations Analyst,People & Culture,Entry,Campus,Recruiter C,Applied,Not Selected,2026-01-03,,,,,,,0,Accepted another offer
+C0087,2026-05-09,Product Manager,Business,Entry,Employee Referral,Recruiter C,Screened,In Progress,2026-05-09,2026-05-13,,,,,,4,
+C0088,2026-02-03,People Operations Analyst,People & Culture,Entry,Campus,Recruiter A,Hiring Manager Interview,Not Selected,2026-02-03,2026-02-08,2026-02-15,2026-02-24,,,,21,Accepted another offer
+C0089,2026-01-08,ML Engineer,AI,Early Career,Campus,Recruiter C,Final Interview,In Progress,2026-01-08,2026-01-13,2026-01-18,2026-01-24,2026-02-01,,,24,
+C0090,2026-06-22,Product Manager,Business,Early Career,Careers Page,Recruiter A,Joined,Joined,2026-06-22,2026-06-27,2026-06-30,2026-07-06,2026-07-12,2026-07-14,2026-07-20,28,
+C0091,2026-04-04,Quantum Software Engineer,Quantum,Early Career,LinkedIn,Recruiter A,Screened,Not Selected,2026-04-04,2026-04-05,,,,,,1,Assessment outcome
+C0092,2026-01-28,Product Manager,Business,Entry,LinkedIn,Recruiter C,Screened,In Progress,2026-01-28,2026-01-31,,,,,,3,
+C0093,2026-03-19,People Operations Analyst,People & Culture,Early Career,Careers Page,Recruiter C,Recruiter Interview,In Progress,2026-03-19,2026-03-24,2026-03-28,,,,,9,
+C0094,2026-02-10,Solutions Engineer,Business,Early Career,Employee Referral,Recruiter A,Recruiter Interview,In Progress,2026-02-10,2026-02-15,2026-02-22,,,,,12,
+C0095,2026-06-25,Quantum Software Engineer,Quantum,Experienced,Employee Referral,Recruiter B,Joined,Joined,2026-06-25,2026-06-28,2026-07-06,2026-07-11,2026-07-16,2026-07-19,2026-07-30,35,
+C0096,2026-01-08,Product Manager,Business,Experienced,LinkedIn,Recruiter B,Hiring Manager Interview,In Progress,2026-01-08,2026-01-09,2026-01-17,2026-01-24,,,,16,
+C0097,2026-01-14,AI Research Associate,AI,Experienced,Careers Page,Recruiter C,Hiring Manager Interview,Not Selected,2026-01-14,2026-01-18,2026-01-22,2026-01-26,,,,12,Availability
+C0098,2026-03-23,Quantum Software Engineer,Quantum,Early Career,Employee Referral,Recruiter B,Screened,In Progress,2026-03-23,2026-03-24,,,,,,1,
+C0099,2026-01-07,ML Engineer,AI,Entry,LinkedIn,Recruiter B,Joined,Joined,2026-01-07,2026-01-12,2026-01-20,2026-01-24,2026-01-31,2026-02-06,2026-02-12,36,
+C0100,2026-02-26,AI Research Associate,AI,Early Career,Employee Referral,Recruiter A,Recruiter Interview,In Progress,2026-02-26,2026-02-27,2026-03-05,,,,,7,
+C0101,2026-02-18,Solutions Engineer,Business,Early Career,Employee Referral,Recruiter C,Screened,In Progress,2026-02-18,2026-02-23,,,,,,5,
+C0102,2026-02-01,Solutions Engineer,Business,Early Career,LinkedIn,Recruiter C,Recruiter Interview,Not Selected,2026-02-01,2026-02-02,2026-02-08,,,,,7,Compensation
+C0103,2026-01-18,ML Engineer,AI,Entry,LinkedIn,Recruiter B,Screened,In Progress,2026-01-18,2026-01-22,,,,,,4,
+C0104,2026-05-12,AI Research Associate,AI,Early Career,Careers Page,Recruiter C,Hiring Manager Interview,In Progress,2026-05-12,2026-05-17,2026-05-24,2026-05-31,,,,19,
+C0105,2026-02-24,Product Manager,Business,Early Career,Employee Referral,Recruiter B,Recruiter Interview,In Progress,2026-02-24,2026-02-26,2026-03-02,,,,,6,
+C0106,2026-06-08,Product Manager,Business,Early Career,Recruiter Agency,Recruiter B,Screened,Not Selected,2026-06-08,2026-06-12,,,,,,4,Accepted another offer
+C0107,2026-03-04,Solutions Engineer,Business,Experienced,Careers Page,Recruiter A,Screened,Not Selected,2026-03-04,2026-03-09,,,,,,5,Role fit
+C0108,2026-05-25,People Operations Analyst,People & Culture,Entry,Employee Referral,Recruiter C,Applied,In Progress,2026-05-25,,,,,,,0,
+C0109,2026-03-03,People Operations Analyst,People & Culture,Early Career,Employee Referral,Recruiter A,Applied,In Progress,2026-03-03,,,,,,,0,
+C0110,2026-01-30,AI Research Associate,AI,Experienced,Employee Referral,Recruiter C,Joined,Joined,2026-01-30,2026-01-31,2026-02-03,2026-02-12,2026-02-15,2026-02-19,2026-02-28,29,
+C0111,2026-06-05,Solutions Engineer,Business,Entry,LinkedIn,Recruiter A,Applied,In Progress,2026-06-05,,,,,,,0,
+C0112,2026-06-10,Product Manager,Business,Early Career,LinkedIn,Recruiter C,Joined,Joined,2026-06-10,2026-06-13,2026-06-21,2026-06-29,2026-07-03,2026-07-10,2026-07-21,41,
+C0113,2026-02-12,Solutions Engineer,Business,Entry,LinkedIn,Recruiter C,Applied,In Progress,2026-02-12,,,,,,,0,
+C0114,2026-05-12,Quantum Software Engineer,Quantum,Experienced,Campus,Recruiter A,Applied,In Progress,2026-05-12,,,,,,,0,
+C0115,2026-01-30,People Operations Analyst,People & Culture,Early Career,LinkedIn,Recruiter C,Applied,Not Selected,2026-01-30,,,,,,,0,Assessment outcome
+C0116,2026-04-15,Solutions Engineer,Business,Entry,Careers Page,Recruiter C,Joined,Joined,2026-04-15,2026-04-18,2026-04-21,2026-04-25,2026-05-02,2026-05-07,2026-05-16,31,
+C0117,2026-02-06,Quantum Software Engineer,Quantum,Entry,Employee Referral,Recruiter A,Screened,In Progress,2026-02-06,2026-02-08,,,,,,2,
+C0118,2026-03-05,AI Research Associate,AI,Early Career,Recruiter Agency,Recruiter C,Offer,Offer Declined,2026-03-05,2026-03-09,2026-03-15,2026-03-25,2026-04-02,2026-04-08,,34,Compensation
+C0119,2026-04-11,AI Research Associate,AI,Entry,Employee Referral,Recruiter B,Recruiter Interview,Not Selected,2026-04-11,2026-04-12,2026-04-18,,,,,7,Compensation
+C0120,2026-02-25,AI Research Associate,AI,Experienced,LinkedIn,Recruiter A,Screened,Not Selected,2026-02-25,2026-02-27,,,,,,2,Role fit
+C0121,2026-06-09,People Operations Analyst,People & Culture,Entry,Employee Referral,Recruiter A,Recruiter Interview,In Progress,2026-06-09,2026-06-13,2026-06-16,,,,,7,
+C0122,2026-05-21,Quantum Software Engineer,Quantum,Early Career,Unknown,Recruiter A,Screened,In Progress,2026-05-21,2026-05-22,,,,,,1,
+C0123,2026-02-02,AI Research Associate,AI,Entry,Recruiter Agency,Recruiter A,Hiring Manager Interview,In Progress,2026-02-02,2026-02-04,2026-02-08,2026-02-12,,,,10,
+C0124,2026-06-26,ML Engineer,AI,Experienced,LinkedIn,Recruiter B,Screened,Not Selected,2026-06-26,2026-06-28,,,,,,2,Role fit
+C0125,2026-05-23,Product Manager,Business,Early Career,Employee Referral,Recruiter B,Applied,Not Selected,2026-05-23,,,,,,,0,Availability
+C0126,2026-04-07,Solutions Engineer,Business,Entry,Careers Page,Recruiter B,Hiring Manager Interview,Not Selected,2026-04-07,2026-04-08,2026-04-14,2026-04-21,,,,14,Assessment outcome
+C0127,2026-02-25,AI Research Associate,AI,Experienced,Employee Referral,Recruiter A,Screened,Not Selected,2026-02-25,2026-03-02,,,,,,5,Accepted another offer
+C0128,2026-03-28,Solutions Engineer,Business,Early Career,Employee Referral,Recruiter C,Recruiter Interview,In Progress,2026-03-28,2026-03-29,2026-04-03,,,,,6,
+C0129,2026-01-04,People Operations Analyst,People & Culture,Entry,Employee Referral,Recruiter A,Hiring Manager Interview,Not Selected,2026-01-04,2026-01-09,2026-01-14,2026-01-19,,,,15,Assessment outcome
+C0130,2026-04-10,AI Research Associate,AI,Early Career,Recruiter Agency,Recruiter C,Final Interview,Not Selected,2026-04-10,2026-04-13,2026-04-16,2026-04-21,2026-04-24,,,14,Accepted another offer
+C0131,2026-02-20,Quantum Software Engineer,Quantum,Experienced,Careers Page,Recruiter A,Screened,In Progress,2026-02-20,2026-02-25,,,,,,5,
+C0132,2026-06-12,Product Manager,Business,Early Career,Recruiter Agency,Recruiter C,Offer,In Progress,2026-06-12,2026-06-17,2026-06-25,2026-07-04,2026-07-09,2026-07-11,,29,
+C0133,2026-04-10,Product Manager,Business,Experienced,Employee Referral,Recruiter C,Screened,In Progress,2026-04-10,2026-04-11,,,,,,1,
+C0134,2026-06-29,Product Manager,Business,Entry,Careers Page,Recruiter C,Recruiter Interview,In Progress,2026-06-29,2026-07-02,2026-07-05,,,,,6,
+C0135,2026-01-10,ML Engineer,AI,Experienced,LinkedIn,Recruiter C,Screened,In Progress,2026-01-10,2026-01-14,,,,,,4,
+C0136,2026-04-19,ML Engineer,AI,Entry,Employee Referral,Recruiter B,Screened,In Progress,2026-04-19,2026-04-21,,,,,,2,
+C0137,2026-06-15,People Operations Analyst,People & Culture,Early Career,Recruiter Agency,Recruiter C,Applied,Not Selected,2026-06-15,,,,,,,0,Role fit
+C0138,2026-01-10,Quantum Software Engineer,Quantum,Experienced,Careers Page,Recruiter A,Joined,Joined,2026-01-10,2026-01-11,2026-01-15,2026-01-19,2026-01-26,2026-02-01,2026-02-08,29,
+C0139,2026-04-09,Product Manager,Business,Early Career,Campus,Recruiter C,Recruiter Interview,Not Selected,2026-04-09,2026-04-10,2026-04-17,,,,,8,Role fit
+C0140,2026-03-10,AI Research Associate,AI,Early Career,Employee Referral,Recruiter B,Applied,In Progress,2026-03-10,,,,,,,0,
+C0141,2026-03-30,People Operations Analyst,People & Culture,Entry,LinkedIn,Recruiter A,Final Interview,In Progress,2026-03-30,2026-04-02,2026-04-07,2026-04-16,2026-04-20,,,21,
+C0142,2026-01-25,Quantum Software Engineer,Quantum,Early Career,Employee Referral,Recruiter B,Recruiter Interview,Not Selected,2026-01-25,2026-01-27,2026-01-31,,,,,6,Role fit
+C0143,2026-01-22,Quantum Software Engineer,Quantum,Experienced,LinkedIn,Recruiter B,Screened,In Progress,2026-01-22,2026-01-27,,,,,,5,
+C0144,2026-02-15,Solutions Engineer,Business,Experienced,Campus,Recruiter B,Screened,In Progress,2026-02-15,2026-02-19,,,,,,4,
+C0145,2026-03-02,Quantum Software Engineer,Quantum,Entry,Recruiter Agency,Recruiter C,Joined,Joined,2026-03-02,2026-03-06,2026-03-09,2026-03-18,2026-03-22,2026-03-28,2026-04-02,31,
+C0146,2026-01-01,Solutions Engineer,Business,Entry,Employee Referral,Recruiter B,Screened,Not Selected,2026-01-01,2026-01-06,,,,,,5,Assessment outcome
+C0147,2026-04-01,People Operations Analyst,People & Culture,Early Career,LinkedIn,Recruiter A,Joined,Joined,2026-04-01,2026-04-02,2026-04-06,2026-04-11,2026-04-15,2026-04-18,2026-04-27,26,
+C0148,2026-02-16,ML Engineer,AI,Entry,Campus,Recruiter A,Final Interview,Not Selected,2026-02-16,2026-02-18,2026-02-23,2026-02-27,2026-03-07,,,19,Role fit
+C0149,2026-01-19,AI Research Associate,AI,Early Career,Careers Page,Recruiter A,Screened,In Progress,2026-01-19,2026-01-21,,,,,,2,
+C0150,2026-03-02,Product Manager,Business,Early Career,Recruiter Agency,Recruiter C,Screened,In Progress,2026-03-02,2026-03-05,,,,,,3,
+C0151,2026-03-31,AI Research Associate,AI,Experienced,Employee Referral,Recruiter C,Recruiter Interview,Not Selected,2026-03-31,2026-04-03,2026-04-06,,,,,6,Compensation
+C0152,2026-04-16,Product Manager,Business,Experienced,Campus,Recruiter B,Recruiter Interview,Not Selected,2026-04-16,2026-04-18,2026-04-23,,,,,7,Accepted another offer
+C0153,2026-03-18,AI Research Associate,AI,Experienced,Campus,Recruiter A,Recruiter Interview,Not Selected,2026-03-18,2026-03-23,2026-03-29,,,,,11,Role fit
+C0154,2026-01-26,Product Manager,Business,Entry,Campus,Recruiter C,Final Interview,Not Selected,2026-01-26,2026-01-31,2026-02-07,2026-02-14,2026-02-22,,,27,Availability
+C0155,2026-01-21,People Operations Analyst,People & Culture,Entry,Careers Page,Recruiter C,Joined,Joined,2026-01-21,2026-01-26,2026-02-01,2026-02-08,2026-02-11,2026-02-17,2026-02-24,34,
+C0156,2026-05-30,Solutions Engineer,Business,Entry,LinkedIn,Recruiter B,Screened,In Progress,2026-05-30,2026-06-01,,,,,,2,
+C0157,2026-06-06,Product Manager,Business,Experienced,LinkedIn,Recruiter B,Joined,Joined,2026-06-06,2026-06-08,2026-06-15,2026-06-24,2026-06-30,2026-07-05,2026-07-17,41,
+C0158,2026-03-11,Solutions Engineer,Business,Experienced,Employee Referral,Recruiter B,Joined,Joined,2026-03-11,2026-03-13,2026-03-18,2026-03-27,2026-04-02,2026-04-07,2026-04-17,37,
+C0159,2026-03-23,Solutions Engineer,Business,Experienced,Campus,Recruiter A,Screened,Not Selected,2026-03-23,2026-03-26,,,,,,3,Compensation
+C0160,2026-03-08,Quantum Software Engineer,Quantum,Entry,Campus,Recruiter C,Applied,In Progress,2026-03-08,,,,,,,0,
+C0161,2026-05-10,Product Manager,Business,Entry,Careers Page,Recruiter C,Recruiter Interview,Not Selected,2026-05-10,2026-05-13,2026-05-16,,,,,6,Availability
+C0162,2026-04-07,ML Engineer,AI,Entry,Campus,Recruiter A,Screened,In Progress,2026-04-07,2026-04-11,,,,,,4,
+C0163,2026-01-02,People Operations Analyst,People & Culture,Experienced,LinkedIn,Recruiter A,Screened,Not Selected,2026-01-02,2026-01-07,,,,,,5,Compensation
+C0164,2026-05-08,Solutions Engineer,Business,Early Career,Campus,Recruiter B,Applied,In Progress,2026-05-08,,,,,,,0,
+C0165,2026-02-27,ML Engineer,AI,Early Career,Employee Referral,Recruiter B,Hiring Manager Interview,In Progress,2026-02-27,2026-03-03,2026-03-09,2026-03-19,,,,20,
+C0166,2026-04-06,Solutions Engineer,Business,Entry,Campus,Recruiter A,Applied,In Progress,2026-04-06,,,,,,,0,
+C0167,2026-01-28,AI Research Associate,AI,Experienced,Campus,Recruiter C,Screened,Not Selected,2026-01-28,2026-02-01,,,,,,4,Compensation
+C0168,2026-01-23,Solutions Engineer,Business,Early Career,Careers Page,Recruiter B,Joined,Joined,2026-01-23,2026-01-28,2026-02-03,2026-02-08,2026-02-11,2026-02-13,2026-02-24,32,
+C0169,2026-05-21,AI Research Associate,AI,Early Career,Employee Referral,Recruiter A,Hiring Manager Interview,Not Selected,2026-05-21,2026-05-22,2026-05-30,2026-06-06,,,,16,Assessment outcome
+C0170,2026-01-18,ML Engineer,AI,Experienced,Careers Page,Recruiter A,Hiring Manager Interview,Not Selected,2026-01-18,2026-01-23,2026-01-30,2026-02-05,,,,18,Role fit
+C0171,2026-03-06,Quantum Software Engineer,Quantum,Early Career,Campus,Recruiter A,Joined,Joined,2026-03-06,2026-03-07,2026-03-12,2026-03-22,2026-03-25,2026-03-30,2026-04-08,33,
+C0172,2026-01-06,Quantum Software Engineer,Quantum,Early Career,Employee Referral,Recruiter B,Joined,Joined,2026-01-06,2026-01-08,2026-01-11,2026-01-15,2026-01-22,2026-01-29,2026-02-03,28,
+C0173,2026-06-26,ML Engineer,AI,Experienced,Campus,Recruiter B,Final Interview,Not Selected,2026-06-26,2026-07-01,2026-07-05,2026-07-11,2026-07-15,,,19,Compensation
+C0174,2026-06-30,AI Research Associate,AI,Entry,Careers Page,Recruiter A,Final Interview,In Progress,2026-06-30,2026-07-04,2026-07-09,2026-07-13,2026-07-21,,,21,
+C0175,2026-04-21,ML Engineer,AI,Experienced,LinkedIn,Recruiter B,Screened,Not Selected,2026-04-21,2026-04-25,,,,,,4,Assessment outcome
+C0176,2026-06-26,AI Research Associate,AI,Entry,Careers Page,Recruiter C,Screened,Not Selected,2026-06-26,2026-07-01,,,,,,5,Availability
+C0177,2026-03-22,People Operations Analyst,People & Culture,Experienced,Recruiter Agency,Recruiter B,Screened,In Progress,2026-03-22,2026-03-24,,,,,,2,
+C0178,2026-06-27,Solutions Engineer,Business,Early Career,Recruiter Agency,Recruiter C,Hiring Manager Interview,In Progress,2026-06-27,2026-07-01,2026-07-08,2026-07-17,,,,20,
+C0179,2026-02-10,Quantum Software Engineer,Quantum,Entry,LinkedIn,Recruiter C,Hiring Manager Interview,In Progress,2026-02-10,2026-02-13,2026-02-18,2026-02-27,,,,17,
+C0180,2026-01-03,Product Manager,Business,Experienced,Employee Referral,Recruiter C,Hiring Manager Interview,Not Selected,2026-01-03,2026-01-08,2026-01-14,2026-01-23,,,,20,Availability
+C0181,2026-04-02,AI Research Associate,AI,Entry,LinkedIn,Recruiter B,Recruiter Interview,Not Selected,2026-04-02,2026-04-05,2026-04-11,,,,,9,Accepted another offer
+C0182,2026-02-08,AI Research Associate,AI,Entry,LinkedIn,Recruiter A,Screened,Not Selected,2026-02-08,2026-02-13,,,,,,5,Accepted another offer
+C0183,2026-06-07,Solutions Engineer,Business,Entry,Careers Page,Recruiter C,Applied,Not Selected,2026-06-07,,,,,,,0,Role fit
+C0184,2026-02-28,ML Engineer,AI,Experienced,LinkedIn,Recruiter B,Applied,Not Selected,2026-02-28,,,,,,,0,Compensation
+C0185,2026-03-04,Solutions Engineer,Business,Experienced,Recruiter Agency,Recruiter C,Recruiter Interview,Not Selected,2026-03-04,2026-03-07,2026-03-11,,,,,7,Role fit
+C0186,2026-06-27,AI Research Associate,AI,Experienced,Careers Page,Recruiter C,Screened,Not Selected,2026-06-27,2026-06-29,,,,,,2,Compensation
+C0187,2026-01-30,Solutions Engineer,Business,Entry,Careers Page,Recruiter A,Final Interview,Not Selected,2026-01-30,2026-02-01,2026-02-06,2026-02-12,2026-02-15,,,16,Assessment outcome
+C0188,2026-02-19,Product Manager,Business,Entry,Employee Referral,Recruiter A,Recruiter Interview,Not Selected,2026-02-19,2026-02-22,2026-02-27,,,,,8,Compensation
+C0189,2026-04-26,AI Research Associate,AI,Entry,Careers Page,Recruiter A,Applied,In Progress,2026-04-26,,,,,,,0,
+C0190,2026-06-30,Product Manager,Business,Experienced,Recruiter Agency,Recruiter A,Joined,Joined,2026-06-30,2026-07-05,2026-07-09,2026-07-14,2026-07-20,2026-07-22,2026-07-26,26,
+C0191,2026-04-06,Product Manager,Business,Early Career,Employee Referral,Recruiter B,Applied,Not Selected,2026-04-06,,,,,,,0,Accepted another offer
+C0192,2026-03-25,Solutions Engineer,Business,Experienced,Recruiter Agency,Recruiter C,Screened,In Progress,2026-03-25,2026-03-30,,,,,,5,
+C0193,2026-01-13,AI Research Associate,AI,Experienced,Careers Page,Recruiter B,Screened,Not Selected,2026-01-13,2026-01-14,,,,,,1,Role fit
+C0194,2026-02-14,People Operations Analyst,People & Culture,Early Career,Recruiter Agency,Recruiter B,Screened,Not Selected,2026-02-14,2026-02-18,,,,,,4,Compensation
+C0195,2026-05-01,Quantum Software Engineer,Quantum,Experienced,Employee Referral,Recruiter A,Screened,In Progress,2026-05-01,2026-05-03,,,,,,2,
+C0196,2026-04-04,Solutions Engineer,Business,Early Career,LinkedIn,Recruiter A,Screened,Not Selected,2026-04-04,2026-04-09,,,,,,5,Availability
+C0197,2026-02-13,AI Research Associate,AI,Early Career,Careers Page,Recruiter A,Recruiter Interview,Not Selected,2026-02-13,2026-02-15,2026-02-22,,,,,9,Assessment outcome
+C0198,2026-05-20,Product Manager,Business,Experienced,Careers Page,Recruiter A,Recruiter Interview,In Progress,2026-05-20,2026-05-21,2026-05-29,,,,,9,
+C0199,2026-04-22,Solutions Engineer,Business,Experienced,Employee Referral,Recruiter B,Hiring Manager Interview,Not Selected,2026-04-22,2026-04-26,2026-05-04,2026-05-08,,,,16,Assessment outcome
+C0200,2026-02-21,AI Research Associate,AI,Experienced,Campus,Recruiter C,Screened,Not Selected,2026-02-21,2026-02-22,,,,,,1,Assessment outcome
+C0201,2026-05-20,Product Manager,Business,Experienced,Careers Page,Recruiter C,Screened,Not Selected,2026-05-20,2026-05-22,,,,,,2,Role fit
+C0202,2026-03-18,Quantum Software Engineer,Quantum,Entry,Campus,Recruiter A,Joined,Joined,2026-03-18,2026-03-19,2026-03-23,2026-03-31,2026-04-04,2026-04-09,2026-04-21,34,
+C0203,2026-06-19,Quantum Software Engineer,Quantum,Entry,Recruiter Agency,Recruiter A,Recruiter Interview,In Progress,2026-06-19,2026-06-23,2026-06-27,,,,,8,
+C0204,2026-05-05,Quantum Software Engineer,Quantum,Early Career,Campus,Recruiter A,Screened,Not Selected,2026-05-05,2026-05-08,,,,,,3,Accepted another offer
+C0205,2026-01-12,People Operations Analyst,People & Culture,Early Career,LinkedIn,Recruiter A,Screened,In Progress,2026-01-12,2026-01-16,,,,,,4,
+C0206,2026-02-20,ML Engineer,AI,Early Career,Recruiter Agency,Recruiter B,Hiring Manager Interview,Not Selected,2026-02-20,2026-02-23,2026-03-01,2026-03-06,,,,14,Role fit
+C0207,2026-02-18,AI Research Associate,AI,Experienced,Campus,Recruiter C,Recruiter Interview,Not Selected,2026-02-18,2026-02-21,2026-02-24,,,,,6,Availability
+C0208,2026-05-03,AI Research Associate,AI,Experienced,Employee Referral,Recruiter A,Recruiter Interview,In Progress,2026-05-03,2026-05-08,2026-05-16,,,,,13,
+C0209,2026-01-08,Solutions Engineer,Business,Entry,Careers Page,Recruiter B,Hiring Manager Interview,Not Selected,2026-01-08,2026-01-09,2026-01-16,2026-01-23,,,,15,Compensation
+C0210,2026-02-24,ML Engineer,AI,Early Career,LinkedIn,Recruiter A,Recruiter Interview,Not Selected,2026-02-24,2026-02-26,2026-03-06,,,,,10,Accepted another offer
+C0211,2026-02-27,Quantum Software Engineer,Quantum,Early Career,LinkedIn,Recruiter A,Joined,Joined,2026-02-27,2026-03-02,2026-03-09,2026-03-13,2026-03-18,2026-03-25,2026-04-04,36,
+C0212,2026-02-27,AI Research Associate,AI,Entry,Unknown,Recruiter A,Final Interview,Not Selected,2026-02-27,2026-03-01,2026-03-04,2026-03-14,2026-03-17,,,18,Compensation
+C0213,2026-05-13,Solutions Engineer,Business,Early Career,LinkedIn,Recruiter C,Recruiter Interview,Not Selected,2026-05-13,2026-05-18,2026-05-25,,,,,12,Compensation
+C0214,2026-04-30,Product Manager,Business,Entry,Careers Page,Recruiter A,Applied,In Progress,2026-04-30,,,,,,,0,
+C0215,2026-06-26,ML Engineer,AI,Experienced,Employee Referral,Recruiter B,Screened,In Progress,2026-06-26,2026-06-29,,,,,,3,
+C0216,2026-06-17,Solutions Engineer,Business,Experienced,Recruiter Agency,Recruiter A,Screened,Not Selected,2026-06-17,2026-06-20,,,,,,3,Assessment outcome
+C0217,2026-06-18,AI Research Associate,AI,Early Career,LinkedIn,Recruiter B,Screened,In Progress,2026-06-18,2026-06-22,,,,,,4,
+C0218,2026-03-14,ML Engineer,AI,Entry,Employee Referral,Recruiter A,Hiring Manager Interview,Not Selected,2026-03-14,2026-03-18,2026-03-25,2026-04-04,,,,21,Assessment outcome
+C0219,2026-01-02,AI Research Associate,AI,Experienced,Employee Referral,Recruiter B,Hiring Manager Interview,In Progress,2026-01-02,2026-01-07,2026-01-10,2026-01-17,,,,15,
+C0220,2026-03-23,Quantum Software Engineer,Quantum,Experienced,Careers Page,Recruiter C,Joined,Joined,2026-03-23,2026-03-27,2026-03-30,2026-04-08,2026-04-11,2026-04-17,2026-04-29,37,
+C0221,2026-04-20,Solutions Engineer,Business,Experienced,Employee Referral,Recruiter B,Screened,Not Selected,2026-04-20,2026-04-22,,,,,,2,Availability
+C0222,2026-02-11,Quantum Software Engineer,Quantum,Early Career,Recruiter Agency,Recruiter C,Offer,Offer Declined,2026-02-11,2026-02-14,2026-02-19,2026-02-27,2026-03-03,2026-03-06,,23,Accepted another offer
+C0223,2026-01-31,AI Research Associate,AI,Early Career,Recruiter Agency,Recruiter C,Screened,In Progress,2026-01-31,2026-02-03,,,,,,3,
+C0224,2026-02-12,AI Research Associate,AI,Entry,Careers Page,Recruiter A,Applied,In Progress,2026-02-12,,,,,,,0,
+C0225,2026-04-08,ML Engineer,AI,Early Career,LinkedIn,Recruiter B,Screened,Not Selected,2026-04-08,2026-04-12,,,,,,4,Compensation
+C0226,2026-04-24,AI Research Associate,AI,Experienced,Campus,Recruiter B,Final Interview,Not Selected,2026-04-24,2026-04-27,2026-05-02,2026-05-08,2026-05-12,,,18,Assessment outcome
+C0227,2026-03-27,Solutions Engineer,Business,Entry,LinkedIn,Recruiter B,Screened,Not Selected,2026-03-27,2026-03-30,,,,,,3,Availability
+C0228,2026-04-20,ML Engineer,AI,Entry,Employee Referral,Recruiter C,Screened,Not Selected,2026-04-20,2026-04-24,,,,,,4,Accepted another offer
+C0229,2026-06-18,Quantum Software Engineer,Quantum,Entry,Employee Referral,Recruiter C,Recruiter Interview,In Progress,2026-06-18,2026-06-21,2026-06-26,,,,,8,
+C0230,2026-03-27,Solutions Engineer,Business,Entry,Careers Page,Recruiter C,Final Interview,In Progress,2026-03-27,2026-03-28,2026-04-05,2026-04-14,2026-04-17,,,21,
+C0231,2026-03-20,Solutions Engineer,Business,Experienced,LinkedIn,Recruiter A,Offer,In Progress,2026-03-20,2026-03-22,2026-03-29,2026-04-03,2026-04-06,2026-04-09,,20,
+C0232,2026-05-22,People Operations Analyst,People & Culture,Early Career,Careers Page,Recruiter A,Screened,In Progress,2026-05-22,2026-05-24,,,,,,2,
+C0233,2026-03-02,AI Research Associate,AI,Experienced,Careers Page,Recruiter C,Recruiter Interview,Not Selected,2026-03-02,2026-03-06,2026-03-12,,,,,10,Accepted another offer
+C0234,2026-03-23,Quantum Software Engineer,Quantum,Experienced,Careers Page,Recruiter A,Screened,In Progress,2026-03-23,2026-03-28,,,,,,5,
+C0235,2026-04-22,Quantum Software Engineer,Quantum,Entry,Employee Referral,Recruiter B,Recruiter Interview,In Progress,2026-04-22,2026-04-25,2026-04-30,,,,,8,
+C0236,2026-01-16,ML Engineer,AI,Entry,Careers Page,Recruiter C,Joined,Joined,2026-01-16,2026-01-17,2026-01-21,2026-01-27,2026-02-04,2026-02-08,2026-02-12,27,
+C0237,2026-04-27,Solutions Engineer,Business,Entry,Recruiter Agency,Recruiter A,Final Interview,Not Selected,2026-04-27,2026-04-30,2026-05-08,2026-05-14,2026-05-21,,,24,Assessment outcome
+C0238,2026-02-18,Quantum Software Engineer,Quantum,Early Career,Careers Page,Recruiter B,Recruiter Interview,In Progress,2026-02-18,2026-02-20,2026-02-23,,,,,5,
+C0239,2026-01-30,ML Engineer,AI,Entry,Employee Referral,Recruiter B,Final Interview,In Progress,2026-01-30,2026-01-31,2026-02-04,2026-02-11,2026-02-19,,,20,
+C0240,2026-06-11,Product Manager,Business,Experienced,Careers Page,Recruiter B,Recruiter Interview,In Progress,2026-06-11,2026-06-13,2026-06-20,,,,,9,
+C0241,2026-02-15,People Operations Analyst,People & Culture,Entry,Recruiter Agency,Recruiter B,Screened,Not Selected,2026-02-15,2026-02-16,,,,,,1,Role fit
+C0242,2026-02-04,Product Manager,Business,Experienced,Campus,Recruiter C,Hiring Manager Interview,In Progress,2026-02-04,2026-02-06,2026-02-13,2026-02-21,,,,17,
+C0243,2026-05-04,Product Manager,Business,Entry,Recruiter Agency,Recruiter B,Screened,In Progress,2026-05-04,2026-05-05,,,,,,1,
+C0244,2026-06-28,People Operations Analyst,People & Culture,Early Career,LinkedIn,Recruiter B,Joined,Joined,2026-06-28,2026-07-03,2026-07-06,2026-07-12,2026-07-17,2026-07-19,2026-07-24,26,
+C0245,2026-02-17,Solutions Engineer,Business,Entry,LinkedIn,Recruiter C,Offer,Not Selected,2026-02-17,2026-02-21,2026-02-24,2026-03-04,2026-03-12,2026-03-18,,29,Compensation
+C0246,2026-01-07,ML Engineer,AI,Entry,Campus,Recruiter C,Screened,In Progress,2026-01-07,2026-01-10,,,,,,3,
+C0247,2026-05-09,People Operations Analyst,People & Culture,Entry,Campus,Recruiter A,Screened,Not Selected,2026-05-09,2026-05-13,,,,,,4,Role fit
+C0248,2026-04-10,Product Manager,Business,Experienced,Campus,Recruiter A,Hiring Manager Interview,Not Selected,2026-04-10,2026-04-12,2026-04-16,2026-04-25,,,,15,Accepted another offer
+C0249,2026-06-18,Product Manager,Business,Early Career,LinkedIn,Recruiter C,Recruiter Interview,Not Selected,2026-06-18,2026-06-20,2026-06-26,,,,,8,Compensation
+C0250,2026-03-31,Quantum Software Engineer,Quantum,Experienced,Careers Page,Recruiter A,Hiring Manager Interview,In Progress,2026-03-31,2026-04-03,2026-04-08,2026-04-13,,,,13,
+C0251,2026-05-08,ML Engineer,AI,Early Career,LinkedIn,Recruiter B,Applied,Not Selected,2026-05-08,,,,,,,0,Assessment outcome
+C0252,2026-03-10,Product Manager,Business,Entry,Employee Referral,Recruiter B,Hiring Manager Interview,Not Selected,2026-03-10,2026-03-13,2026-03-18,2026-03-24,,,,14,Accepted another offer
+C0253,2026-03-30,People Operations Analyst,People & Culture,Early Career,Recruiter Agency,Recruiter A,Applied,In Progress,2026-03-30,,,,,,,0,
+C0254,2026-02-16,AI Research Associate,AI,Entry,Recruiter Agency,Recruiter B,Hiring Manager Interview,In Progress,2026-02-16,2026-02-17,2026-02-20,2026-03-02,,,,14,
+C0255,2026-04-30,Quantum Software Engineer,Quantum,Early Career,Recruiter Agency,Recruiter A,Hiring Manager Interview,Not Selected,2026-04-30,2026-05-04,2026-05-07,2026-05-14,,,,14,Availability
+C0256,2026-06-26,AI Research Associate,AI,Early Career,Employee Referral,Recruiter B,Joined,Joined,2026-06-26,2026-06-28,2026-07-05,2026-07-13,2026-07-18,2026-07-21,2026-07-27,31,
+C0257,2026-05-23,ML Engineer,AI,Entry,Campus,Recruiter B,Applied,Not Selected,2026-05-23,,,,,,,0,Compensation
+C0258,2026-04-10,ML Engineer,AI,Entry,Employee Referral,Recruiter A,Recruiter Interview,Not Selected,2026-04-10,2026-04-12,2026-04-17,,,,,7,Accepted another offer
+C0259,2026-02-16,People Operations Analyst,People & Culture,Experienced,Recruiter Agency,Recruiter A,Recruiter Interview,In Progress,2026-02-16,2026-02-17,2026-02-20,,,,,4,
+C0260,2026-03-30,People Operations Analyst,People & Culture,Experienced,Campus,Recruiter A,Screened,Not Selected,2026-03-30,2026-04-03,,,,,,4,Availability
+C0261,2026-04-10,ML Engineer,AI,Early Career,Careers Page,Recruiter A,Applied,In Progress,2026-04-10,,,,,,,0,
+C0262,2026-01-21,AI Research Associate,AI,Experienced,Employee Referral,Recruiter C,Recruiter Interview,Not Selected,2026-01-21,2026-01-22,2026-01-28,,,,,7,Accepted another offer
+C0263,2026-03-20,Quantum Software Engineer,Quantum,Entry,LinkedIn,Recruiter A,Joined,Joined,2026-03-20,2026-03-23,2026-03-31,2026-04-05,2026-04-08,2026-04-10,2026-04-19,30,
+C0264,2026-01-04,Product Manager,Business,Experienced,LinkedIn,Recruiter C,Applied,Not Selected,2026-01-04,,,,,,,0,Availability
+C0265,2026-06-25,AI Research Associate,AI,Experienced,Campus,Recruiter B,Screened,In Progress,2026-06-25,2026-06-29,,,,,,4,
+C0266,2026-06-07,AI Research Associate,AI,Experienced,Employee Referral,Recruiter A,Recruiter Interview,In Progress,2026-06-07,2026-06-08,2026-06-15,,,,,8,
+C0267,2026-01-06,Solutions Engineer,Business,Entry,Recruiter Agency,Recruiter A,Final Interview,Not Selected,2026-01-06,2026-01-10,2026-01-17,2026-01-21,2026-01-25,,,19,Role fit
+C0268,2026-04-17,People Operations Analyst,People & Culture,Experienced,Campus,Recruiter B,Recruiter Interview,Not Selected,2026-04-17,2026-04-19,2026-04-26,,,,,9,Compensation
+C0269,2026-03-17,Solutions Engineer,Business,Early Career,Campus,Recruiter C,Final Interview,In Progress,2026-03-17,2026-03-21,2026-03-28,2026-04-07,2026-04-13,,,27,
+C0270,2026-02-12,Quantum Software Engineer,Quantum,Experienced,Recruiter Agency,Recruiter A,Applied,In Progress,2026-02-12,,,,,,,0,
+C0271,2026-01-28,People Operations Analyst,People & Culture,Entry,Careers Page,Recruiter C,Recruiter Interview,Not Selected,2026-01-28,2026-01-30,2026-02-04,,,,,7,Role fit
+C0272,2026-03-27,People Operations Analyst,People & Culture,Experienced,LinkedIn,Recruiter A,Joined,Joined,2026-03-27,2026-04-01,2026-04-08,2026-04-14,2026-04-22,2026-04-26,2026-05-04,38,
+C0273,2026-01-16,Quantum Software Engineer,Quantum,Experienced,Employee Referral,Recruiter B,Hiring Manager Interview,In Progress,2026-01-16,2026-01-17,2026-01-25,2026-01-29,,,,13,
+C0274,2026-02-25,ML Engineer,AI,Entry,Careers Page,Recruiter A,Applied,Not Selected,2026-02-25,,,,,,,0,Compensation
+C0275,2026-06-06,AI Research Associate,AI,Experienced,Employee Referral,Recruiter A,Recruiter Interview,Not Selected,2026-06-06,2026-06-07,2026-06-10,,,,,4,Accepted another offer
+C0276,2026-03-10,Product Manager,Business,Experienced,LinkedIn,Recruiter C,Offer,Not Selected,2026-03-10,2026-03-13,2026-03-16,2026-03-20,2026-03-24,2026-03-27,,17,Availability
+C0277,2026-04-13,Solutions Engineer,Business,Experienced,LinkedIn,Recruiter B,Screened,Not Selected,2026-04-13,2026-04-16,,,,,,3,Compensation
+C0278,2026-04-02,Quantum Software Engineer,Quantum,Entry,Recruiter Agency,Recruiter C,Hiring Manager Interview,In Progress,2026-04-02,2026-04-04,2026-04-08,2026-04-16,,,,14,
+C0279,2026-05-02,Solutions Engineer,Business,Experienced,Careers Page,Recruiter C,Recruiter Interview,Not Selected,2026-05-02,2026-05-03,2026-05-10,,,,,8,Accepted another offer
+C0280,2026-05-01,Solutions Engineer,Business,Early Career,LinkedIn,Recruiter A,Screened,Not Selected,2026-05-01,2026-05-02,,,,,,1,Assessment outcome
+C0281,2026-04-19,Solutions Engineer,Business,Entry,LinkedIn,Recruiter B,Screened,Not Selected,2026-04-19,2026-04-24,,,,,,5,Availability
+C0282,2026-02-21,People Operations Analyst,People & Culture,Experienced,Employee Referral,Recruiter C,Recruiter Interview,In Progress,2026-02-21,2026-02-25,2026-03-01,,,,,8,
+C0283,2026-05-30,AI Research Associate,AI,Entry,Careers Page,Recruiter B,Hiring Manager Interview,Not Selected,2026-05-30,2026-06-01,2026-06-06,2026-06-12,,,,13,Accepted another offer
+C0284,2026-01-10,AI Research Associate,AI,Early Career,Careers Page,Recruiter C,Joined,Joined,2026-01-10,2026-01-15,2026-01-20,2026-01-26,2026-01-29,2026-02-04,2026-02-12,33,
+C0285,2026-05-21,Solutions Engineer,Business,Experienced,LinkedIn,Recruiter A,Screened,In Progress,2026-05-21,2026-05-25,,,,,,4,
+C0286,2026-03-07,Quantum Software Engineer,Quantum,Early Career,Employee Referral,Recruiter A,Applied,Not Selected,2026-03-07,,,,,,,0,Assessment outcome
+C0287,2026-03-10,Solutions Engineer,Business,Early Career,Careers Page,Recruiter A,Joined,Joined,2026-03-10,2026-03-14,2026-03-18,2026-03-23,2026-03-30,2026-04-01,2026-04-04,25,
+C0288,2026-02-23,ML Engineer,AI,Entry,LinkedIn,Recruiter C,Offer,In Progress,2026-02-23,2026-02-27,2026-03-04,2026-03-11,2026-03-17,2026-03-20,,25,
+C0289,2026-04-26,Quantum Software Engineer,Quantum,Entry,Careers Page,Recruiter B,Hiring Manager Interview,In Progress,2026-04-26,2026-05-01,2026-05-07,2026-05-15,,,,19,
+C0290,2026-04-20,Product Manager,Business,Experienced,LinkedIn,Recruiter B,Recruiter Interview,Not Selected,2026-04-20,2026-04-25,2026-05-02,,,,,12,Compensation
+C0291,2026-04-15,Solutions Engineer,Business,Entry,Employee Referral,Recruiter B,Recruiter Interview,Not Selected,2026-04-15,2026-04-20,2026-04-27,,,,,12,Assessment outcome
+C0292,2026-05-21,AI Research Associate,AI,Experienced,Recruiter Agency,Recruiter A,Recruiter Interview,In Progress,2026-05-21,2026-05-22,2026-05-27,,,,,6,
+C0293,2026-01-17,Quantum Software Engineer,Quantum,Early Career,LinkedIn,Recruiter B,Hiring Manager Interview,In Progress,2026-01-17,2026-01-20,2026-01-23,2026-01-27,,,,10,
+C0294,2026-03-13,ML Engineer,AI,Early Career,Recruiter Agency,Recruiter A,Recruiter Interview,In Progress,2026-03-13,2026-03-16,2026-03-20,,,,,7,
+C0295,2026-05-21,ML Engineer,AI,Experienced,Recruiter Agency,Recruiter A,Screened,Not Selected,2026-05-21,2026-05-26,,,,,,5,Availability
+C0296,2026-06-08,Quantum Software Engineer,Quantum,Early Career,LinkedIn,Recruiter A,Hiring Manager Interview,Not Selected,2026-06-08,2026-06-11,2026-06-19,2026-06-29,,,,21,Accepted another offer
+C0297,2026-05-23,Product Manager,Business,Early Career,Campus,Recruiter B,Recruiter Interview,Not Selected,2026-05-23,2026-05-27,2026-06-03,,,,,11,Role fit
+C0298,2026-03-23,ML Engineer,AI,Early Career,Careers Page,Recruiter C,Recruiter Interview,In Progress,2026-03-23,2026-03-25,2026-03-31,,,,,8,
+C0299,2026-06-16,Solutions Engineer,Business,Early Career,Unknown,Recruiter B,Recruiter Interview,In Progress,2026-06-16,2026-06-21,2026-06-28,,,,,12,
+C0300,2026-04-03,People Operations Analyst,People & Culture,Entry,Employee Referral,Recruiter B,Hiring Manager Interview,Not Selected,2026-04-03,2026-04-05,2026-04-09,2026-04-19,,,,16,Assessment outcome
+C0301,2026-04-15,ML Engineer,AI,Experienced,LinkedIn,Recruiter C,Recruiter Interview,Not Selected,2026-04-15,2026-04-17,2026-04-22,,,,,7,Compensation
+C0302,2026-05-12,ML Engineer,AI,Early Career,LinkedIn,Recruiter C,Hiring Manager Interview,Not Selected,2026-05-12,2026-05-16,2026-05-20,2026-05-28,,,,16,Availability
+C0303,2026-03-14,AI Research Associate,AI,Entry,Careers Page,Recruiter A,Screened,In Progress,2026-03-14,2026-03-18,,,,,,4,
+C0304,2026-03-21,Quantum Software Engineer,Quantum,Early Career,Careers Page,Recruiter B,Joined,Joined,2026-03-21,2026-03-22,2026-03-26,2026-04-04,2026-04-12,2026-04-15,2026-04-24,34,
+C0305,2026-01-28,Quantum Software Engineer,Quantum,Experienced,Employee Referral,Recruiter A,Applied,In Progress,2026-01-28,,,,,,,0,
+C0306,2026-03-16,Quantum Software Engineer,Quantum,Experienced,Campus,Recruiter A,Screened,Not Selected,2026-03-16,2026-03-21,,,,,,5,Role fit
+C0307,2026-01-08,ML Engineer,AI,Entry,LinkedIn,Recruiter A,Final Interview,In Progress,2026-01-08,2026-01-12,2026-01-17,2026-01-21,2026-01-26,,,18,
+C0308,2026-01-15,AI Research Associate,AI,Early Career,Campus,Recruiter B,Joined,Joined,2026-01-15,2026-01-19,2026-01-26,2026-01-30,2026-02-07,2026-02-09,2026-02-19,35,
+C0309,2026-01-06,People Operations Analyst,People & Culture,Early Career,Recruiter Agency,Recruiter C,Hiring Manager Interview,Not Selected,2026-01-06,2026-01-08,2026-01-13,2026-01-20,,,,14,Compensation
+C0310,2026-01-07,Quantum Software Engineer,Quantum,Early Career,LinkedIn,Recruiter B,Applied,Not Selected,2026-01-07,,,,,,,0,Availability
+C0311,2026-04-03,ML Engineer,AI,Early Career,Employee Referral,Recruiter B,Screened,Not Selected,2026-04-03,2026-04-08,,,,,,5,Accepted another offer
+C0312,2026-02-05,Solutions Engineer,Business,Entry,Campus,Recruiter B,Recruiter Interview,In Progress,2026-02-05,2026-02-06,2026-02-10,,,,,5,
+C0313,2026-04-30,AI Research Associate,AI,Experienced,Careers Page,Recruiter B,Recruiter Interview,In Progress,2026-04-30,2026-05-05,2026-05-10,,,,,10,
+C0314,2026-05-24,AI Research Associate,AI,Entry,LinkedIn,Recruiter A,Recruiter Interview,Not Selected,2026-05-24,2026-05-25,2026-05-28,,,,,4,Availability
+C0315,2026-04-08,Solutions Engineer,Business,Early Career,Campus,Recruiter A,Recruiter Interview,Not Selected,2026-04-08,2026-04-11,2026-04-19,,,,,11,Assessment outcome
+C0316,2026-04-23,Quantum Software Engineer,Quantum,Entry,LinkedIn,Recruiter C,Recruiter Interview,Not Selected,2026-04-23,2026-04-24,2026-05-01,,,,,8,Availability
+C0317,2026-06-12,People Operations Analyst,People & Culture,Entry,Recruiter Agency,Recruiter C,Screened,In Progress,2026-06-12,2026-06-13,,,,,,1,
+C0318,2026-04-13,AI Research Associate,AI,Experienced,Employee Referral,Recruiter C,Joined,Joined,2026-04-13,2026-04-16,2026-04-21,2026-04-26,2026-04-30,2026-05-06,2026-05-12,29,
+C0319,2026-04-08,ML Engineer,AI,Experienced,Campus,Recruiter C,Screened,Not Selected,2026-04-08,2026-04-13,,,,,,5,Assessment outcome
+C0320,2026-01-23,ML Engineer,AI,Experienced,Careers Page,Recruiter A,Final Interview,Not Selected,2026-01-23,2026-01-25,2026-01-29,2026-02-06,2026-02-11,,,19,Assessment outcome
+C0321,2026-03-14,Product Manager,Business,Entry,Careers Page,Recruiter B,Offer,In Progress,2026-03-14,2026-03-18,2026-03-21,2026-03-28,2026-03-31,2026-04-02,,19,
+C0322,2026-06-20,Product Manager,Business,Experienced,Careers Page,Recruiter A,Screened,Not Selected,2026-06-20,2026-06-22,,,,,,2,Role fit
+C0323,2026-01-19,ML Engineer,AI,Early Career,Recruiter Agency,Recruiter B,Recruiter Interview,In Progress,2026-01-19,2026-01-24,2026-01-31,,,,,12,
+C0324,2026-04-04,Product Manager,Business,Entry,Campus,Recruiter B,Hiring Manager Interview,In Progress,2026-04-04,2026-04-09,2026-04-15,2026-04-25,,,,21,
+C0325,2026-01-09,AI Research Associate,AI,Entry,Employee Referral,Recruiter A,Recruiter Interview,Not Selected,2026-01-09,2026-01-10,2026-01-16,,,,,7,Assessment outcome
+C0326,2026-04-01,Quantum Software Engineer,Quantum,Early Career,LinkedIn,Recruiter B,Hiring Manager Interview,Not Selected,2026-04-01,2026-04-03,2026-04-09,2026-04-14,,,,13,Compensation
+C0327,2026-03-14,AI Research Associate,AI,Experienced,LinkedIn,Recruiter A,Recruiter Interview,In Progress,2026-03-14,2026-03-16,2026-03-23,,,,,9,
+C0328,2026-03-31,Solutions Engineer,Business,Entry,Employee Referral,Recruiter A,Recruiter Interview,Not Selected,2026-03-31,2026-04-02,2026-04-08,,,,,8,Compensation
+C0329,2026-06-29,Quantum Software Engineer,Quantum,Experienced,LinkedIn,Recruiter A,Hiring Manager Interview,In Progress,2026-06-29,2026-07-01,2026-07-07,2026-07-13,,,,14,
+C0330,2026-02-02,AI Research Associate,AI,Early Career,Careers Page,Recruiter C,Final Interview,In Progress,2026-02-02,2026-02-07,2026-02-14,2026-02-24,2026-03-03,,,29,
+C0331,2026-03-09,Product Manager,Business,Entry,LinkedIn,Recruiter C,Joined,Joined,2026-03-09,2026-03-10,2026-03-16,2026-03-21,2026-03-28,2026-03-31,2026-04-08,30,
+C0332,2026-06-30,People Operations Analyst,People & Culture,Early Career,Careers Page,Recruiter B,Recruiter Interview,In Progress,2026-06-30,2026-07-03,2026-07-09,,,,,9,
+C0333,2026-01-28,Solutions Engineer,Business,Entry,Employee Referral,Recruiter C,Screened,In Progress,2026-01-28,2026-02-02,,,,,,5,
+C0334,2026-01-23,Quantum Software Engineer,Quantum,Early Career,Employee Referral,Recruiter A,Screened,In Progress,2026-01-23,2026-01-26,,,,,,3,
+C0335,2026-05-23,Quantum Software Engineer,Quantum,Experienced,Careers Page,Recruiter C,Recruiter Interview,In Progress,2026-05-23,2026-05-26,2026-06-02,,,,,10,
+C0336,2026-01-12,AI Research Associate,AI,Entry,Employee Referral,Recruiter B,Hiring Manager Interview,Not Selected,2026-01-12,2026-01-17,2026-01-22,2026-01-27,,,,15,Role fit
+C0337,2026-01-21,AI Research Associate,AI,Entry,Employee Referral,Recruiter B,Final Interview,Not Selected,2026-01-21,2026-01-22,2026-01-27,2026-02-01,2026-02-08,,,18,Compensation
+C0338,2026-04-23,Quantum Software Engineer,Quantum,Entry,Careers Page,Recruiter B,Hiring Manager Interview,Not Selected,2026-04-23,2026-04-28,2026-05-05,2026-05-15,,,,22,Availability
+C0339,2026-06-09,Solutions Engineer,Business,Experienced,Careers Page,Recruiter C,Hiring Manager Interview,In Progress,2026-06-09,2026-06-14,2026-06-19,2026-06-29,,,,20,
+C0340,2026-05-21,ML Engineer,AI,Entry,Employee Referral,Recruiter C,Joined,Joined,2026-05-21,2026-05-26,2026-06-03,2026-06-07,2026-06-12,2026-06-16,2026-06-19,29,
+C0341,2026-05-29,Solutions Engineer,Business,Experienced,Campus,Recruiter C,Joined,Joined,2026-05-29,2026-05-30,2026-06-02,2026-06-12,2026-06-20,2026-06-24,2026-06-29,31,
+C0342,2026-06-28,Product Manager,Business,Entry,Campus,Recruiter A,Screened,In Progress,2026-06-28,2026-07-02,,,,,,4,
+C0343,2026-01-12,AI Research Associate,AI,Entry,Campus,Recruiter B,Final Interview,In Progress,2026-01-12,2026-01-17,2026-01-21,2026-01-28,2026-02-01,,,20,
+C0344,2026-02-15,People Operations Analyst,People & Culture,Entry,Careers Page,Recruiter B,Screened,Not Selected,2026-02-15,2026-02-19,,,,,,4,Compensation
+C0345,2026-03-26,Product Manager,Business,Experienced,Campus,Recruiter A,Screened,In Progress,2026-03-26,2026-03-29,,,,,,3,
+C0346,2026-05-26,AI Research Associate,AI,Experienced,Employee Referral,Recruiter B,Applied,In Progress,2026-05-26,,,,,,,0,
+C0347,2026-02-28,People Operations Analyst,People & Culture,Entry,Employee Referral,Recruiter C,Hiring Manager Interview,In Progress,2026-02-28,2026-03-04,2026-03-07,2026-03-13,,,,13,
+C0348,2026-04-22,AI Research Associate,AI,Early Career,Careers Page,Recruiter B,Recruiter Interview,Not Selected,2026-04-22,2026-04-25,2026-05-03,,,,,11,Accepted another offer
+C0349,2026-02-11,Quantum Software Engineer,Quantum,Entry,Employee Referral,Recruiter B,Applied,Not Selected,2026-02-11,,,,,,,0,Accepted another offer
+C0350,2026-03-31,AI Research Associate,AI,Experienced,Employee Referral,Recruiter C,Joined,Joined,2026-03-31,2026-04-03,2026-04-06,2026-04-16,2026-04-23,2026-04-25,2026-04-29,29,
+C0351,2026-04-10,People Operations Analyst,People & Culture,Entry,Campus,Recruiter A,Joined,Joined,2026-04-10,2026-04-11,2026-04-17,2026-04-21,2026-04-27,2026-05-03,2026-05-10,30,
+C0352,2026-04-12,ML Engineer,AI,Experienced,LinkedIn,Recruiter B,Screened,In Progress,2026-04-12,2026-04-17,,,,,,5,
+C0353,2026-01-12,Product Manager,Business,Experienced,Employee Referral,Recruiter C,Recruiter Interview,Not Selected,2026-01-12,2026-01-16,2026-01-22,,,,,10,Role fit
+C0354,2026-03-13,Quantum Software Engineer,Quantum,Early Career,Careers Page,Recruiter B,Joined,Joined,2026-03-13,2026-03-16,2026-03-19,2026-03-23,2026-03-27,2026-04-02,2026-04-08,26,
+C0355,2026-04-11,Solutions Engineer,Business,Entry,Campus,Recruiter B,Joined,Joined,2026-04-11,2026-04-15,2026-04-22,2026-04-30,2026-05-03,2026-05-06,2026-05-11,30,
+C0356,2026-05-02,AI Research Associate,AI,Entry,Employee Referral,Recruiter A,Recruiter Interview,In Progress,2026-05-02,2026-05-06,2026-05-13,,,,,11,
+C0357,2026-02-03,Solutions Engineer,Business,Entry,Campus,Recruiter B,Recruiter Interview,Not Selected,2026-02-03,2026-02-07,2026-02-11,,,,,8,Accepted another offer
+C0358,2026-04-22,People Operations Analyst,People & Culture,Entry,LinkedIn,Recruiter C,Screened,Not Selected,2026-04-22,2026-04-25,,,,,,3,Assessment outcome
+C0359,2026-04-22,AI Research Associate,AI,Experienced,Campus,Recruiter A,Recruiter Interview,In Progress,2026-04-22,2026-04-23,2026-04-26,,,,,4,
+C0360,2026-02-15,Product Manager,Business,Experienced,LinkedIn,Recruiter B,Screened,Not Selected,2026-02-15,2026-02-17,,,,,,2,Availability
